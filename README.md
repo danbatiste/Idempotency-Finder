@@ -12,6 +12,6 @@ If it diverged, then I could take the inverse of f(x) and do the same process to
 
 ln(x) and e^x are a great example of this. e^x diverges, so applying it to itself over and over again will make its value shoot off to infinity. ln(x), however, approaches a numerical value. When I run the program for 100 iterations, solving for x = ln(x), I get: Answer = (0.4026967693059262+1.2313359538054744j). Running it for 10000 iterations gives me (0.3181315052047642+1.3372357014306895j) as an answer.
 
-That value solves for both ln(x) = x and e^x = x. Seriously, it does. Try it.
+That value solves for both ln(x) = x and e^x = x.
 
-This math can solve for things like x = 1 + 1/(x^(2 + x)), which has a solution of x = 1.3579336975676037.
+This math can solve for things like x = 1 + 1/(x^(2 + x)) (which has a solution of x = 1.3579336975676037).
