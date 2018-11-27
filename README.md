@@ -1,6 +1,6 @@
 # Iterative-Idempotent-Solver
 
-###### This program finds solutions to equtions using the process described below.
+#### This program finds solutions to equtions using the process described below.
 
 
 Let some f(x) = x. Then take x on the right side (which is equal to f(x)) and replace the x inside of the f(x) with its value.
